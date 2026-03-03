@@ -29,5 +29,6 @@ readxl – cargar archivos Excel
 ggplot2 – graficar
 Usé R versión 4.3.1
 
-![Carbon footprint plot](figures/Plot.png)
+![Carbon footprint plot](Plot.png)
+
 
